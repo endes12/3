@@ -1,0 +1,49 @@
+egy oprenadusz:                      igazság táblázat:
+  -egy állítás                          -sor állítás
+  -tagadás                              -oszlop állítások száma +1 
+                                         bementet II kimenet
+         Not!-    A I nemA                    -fejléc
+               _____I_______
+                  0 I 1
+                  1 I 0
+                    I
+  -két oprenadus 
+        
+        .ÉS AND && ^
+        A:nyitva az ajtó
+        B:nyitva az ablak
+        c:kereszthuzat              A I B I C
+                                    --I---I--
+                                    0 I0  I0
+                                    0 I 1 I0
+                                    1 I 0 I0
+                                     1I 1 I1
+        
+        A:süt a nap
+        B:világít a lámpa
+        C:látok
+        ..VAGY OR II + V
+                                    A I B I C
+                                    --I---I--
+                                    0 I0  I0
+                                    0 I 1 I0
+                                    1 I 0 I0
+                                     1I 1 I1
+                                      
+            kizáró vagy    XOR   ^                     
+         A:korcsolya                              
+         B:suli                  A I B I C
+         C:                      --I---I--
+                                 0 I0  I0
+                                 0 I 1 I1
+                                 1 I 0 I1
+                                  1I 1 I0
+                                      
+                                      
+                                      
+                                      
+                                      
+        
+        
+        
+        
